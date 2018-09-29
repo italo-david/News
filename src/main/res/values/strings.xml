@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="title_activity_categories">CategoryActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome">Nome</string>
+    <string name="hint_nome">Insira seu nome</string>
+    <string name="btn_avancar">Avançar</string>
+    <string name="erro_falta_nome">Por favor, coloque um nome</string>
+    <string name="cadastro_sucesso">Pessoa cadastrada com sucesso</string>
+    <string name="bem_vindo">Bem vindo</string>
+    <string name="btn_pular">Pular</string>
+    <string name="escolha_categoria">Escolha o que deseja ver:</string>
+    <string name="categoria_tecnologia">Tecnologia</string>
+    <string name="categoria_ciencia">Ciência</string>
+    <string name="categoria_cinema">Cinema</string>
+    <string name="categoria_jogos">Jogos</string>
+    <string name="categoria_maps">Maps</string>
+    <string name="categoria_padrao">[Nome da categoria]</string>
+    <string name="hint_categoria_padrao">[Descrição da categoria]</string>
+    <string name="fonte">Fonte:</string>
+    <string name="new_york_times">New York Times</string>
+    <string name="uol">UOL</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="pedir_nome">Coloque seu nome abaixo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="notificacao_maps_titulo">Nova ferramenta do News</string>
+    <string name="notificacao_maps_texto">Agora você pode utilizar Google Maps</string>
+    <string name="notice">Você precisa esta conectado com a internet para acessar as noticias!</string>
+    <string name="online">Wifi on</string>
+    <string name="desconected">Wifi off</string>
+    <string name="refresh">recarregar</string>
+</resources>
